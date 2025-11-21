@@ -1,0 +1,5 @@
+{
+  "name": "Online Whiteboard & Scribble Pad",
+  "description": "A minimalist, full-screen online whiteboard for free-form drawing and scribbling. Features include color selection, brush size adjustment, undo, clear, and PNG download, all set against a beautiful animated galaxy background.",
+  "requestFramePermissions": []
+}
