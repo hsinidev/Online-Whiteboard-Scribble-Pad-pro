@@ -6,7 +6,7 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.0-cyan.svg)](https://tailwindcss.com/)
 [![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Online-success)](https://whiteboard.doodax.com)
 
-**[🚀 LIVE DEMO](https://whiteboard.doodax.com)**
+**[🚀 LIVE DEMO](https://doodax.com/tools/online-whiteboard/index.html)**
 
 An advanced, privacy-focused online whiteboard application built with modern web technologies. This project leverages the HTML5 Canvas API to provide a lag-free, native-feeling drawing experience directly in the browser.
 
